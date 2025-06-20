@@ -59,7 +59,7 @@ CT-scan classification using VGG-16 & ResNet-50 | Achieved 87.3% accuracy
 
 🎤 Bachelor’s in Carnatic Vocal Music and Hindustani Vocal Music
 🖋️ Huge stationery enthusiast — I own 1000+ erasers & 300+ pencils  
-📸 Love photography, travelling, Music, Tea
+📸 Love photography, travelling, music, tea (kadak chai)
 
 ---
 
